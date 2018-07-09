@@ -22,3 +22,9 @@ In the terminal, run:
 npm install
 npm start
 ```
+
+# Tech stack
+
+### Built with
+- React, Redux
+- Bootstrap
