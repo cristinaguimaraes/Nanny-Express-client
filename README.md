@@ -1,4 +1,4 @@
-# Solo-Project
+# Nanny-Express-client
 
 Nanny Express, a trustworthy channel that connects parents and babysitters.
 
