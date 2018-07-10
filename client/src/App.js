@@ -26,7 +26,7 @@ class App extends Component {
         <Welcome add={(e)=>{this.UserFriends(e)}}></Welcome>
       )
     }
-console.log(this.state.friends);
+
     return (
       <div className="App">
         <Route exact path="/" component={WelcomePage}/>

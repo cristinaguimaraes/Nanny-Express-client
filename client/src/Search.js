@@ -28,6 +28,7 @@ class Search extends Component {
 
   handleSubmit ( event) {
     event.preventDefault()
+    console.log(this.state.value2);
     this.setState({ redirect: (
       <Redirect to={`/browse/${this.state.value2}/${this.state.value1}`} > </Redirect>
 

@@ -67,7 +67,7 @@ class Welcome extends Component {
             <form className = 'LoginForm' onSubmit={this.handleSubmit}>
               <FormGroup controlId="email" bsSize="large">
                 <ControlLabel>Email</ControlLabel>
-                <FormControl 
+                <FormControl
                   autoFocus
                   type="email"
                   value={this.state.email}
