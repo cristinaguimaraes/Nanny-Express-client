@@ -10,7 +10,7 @@ Nanny Express, a trustworthy channel that connects parents and babysitters.
   
  ## 1. Clone the Repo
 
-Clone the `Nanny-Express-server code` locally. In a terminal, run:
+Clone the `Nanny-Express-client code` locally. In a terminal, run:
 
   `git clone https://github.com/cristinaguimaraes/Nanny-Express-client.git`
   
